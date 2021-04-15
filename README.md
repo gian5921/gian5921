@@ -1,11 +1,11 @@
 ## Languages
 
 <p>
-  <a title="C++" href="https://www.learncpp.com/">
-    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP">
+  <a title="C++" href="https://www.sololearn.com/learning/1051">
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP">
   </a>
-  <a title="C#" href="https://www.w3schools.com/cs/default.asp">
-    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp">
+  <a title="C#" href="https://www.sololearn.com/learning/1080">
+    <img width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp">
   </a>
 </p>
 
