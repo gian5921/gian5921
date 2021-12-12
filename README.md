@@ -1,8 +1,6 @@
-## GitHub Status
-
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gian5921&count_private=true&show_icons=true&theme=material-dracula"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian5921&exclude_repo=Pixel-Tamers-RE&theme=material-dracula&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gian5921&count_private=true&show_icons=true&theme=graywhite"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian5921&exclude_repo=Pixel-Tamers-RE&theme=graywhite&layout=compact"/>
 </a>
 
 ## Languages
